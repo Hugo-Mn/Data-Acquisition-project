@@ -181,6 +181,36 @@ I have reviewed and improved the README file. Here are the changes made:
 
 The document now follows best practices for technical documentation and provides a clear overview of the project structure and findings.
 
+### Prompt 5: Create Setup Guide
+
+**Question:** Create a separate setup guide for Python and package installation instructions
+
+**Response:**
+
+I have created a new `SETUP.md` file with comprehensive installation instructions:
+
+1. Python Installation Guide:
+   - Download instructions
+   - PATH configuration
+   - Installation verification steps
+
+2. Package Management:
+   - Required packages list
+   - Installation commands
+   - Verification steps
+
+3. Troubleshooting Section:
+   - Common issues and solutions
+   - Python 2 vs 3 considerations
+   - Alternative installation methods
+
+4. Documentation Quality:
+   - Clear step-by-step instructions
+   - Copy-paste ready commands
+   - Platform-specific notes
+
+The setup guide is now separated from the main README for better organization and clarity.
+
 ## Execution Instructions
 
 1. Clone the repository:
@@ -201,4 +231,4 @@ The document now follows best practices for technical documentation and provides
    python ./main.py
    ```
 
-Note: Make sure you have Python installed with the required packages (pandas, seaborn, matplotlib)
+For Python installation and required packages setup, please refer to [SETUP.md](./SETUP.md).

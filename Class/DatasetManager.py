@@ -1,10 +1,9 @@
 import pandas as pd
-import WebSiteFormater
-import PlotManager
 import os
 import tkinter as tk
 from tkinter import ttk
-from pandastable import Table, TableModel
+from pandastable import Table
+from . import WebSiteFormater
 
 class DatasetManager():
     def __init__(self, localPath="", websiteUrl= ""):

@@ -180,3 +180,25 @@ I have reviewed and improved the README file. Here are the changes made:
    - Added proper technical terminology
 
 The document now follows best practices for technical documentation and provides a clear overview of the project structure and findings.
+
+## Execution Instructions
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Hugo-Mn/Data-Acquisition-project.git
+   ```
+
+2. Navigate to the project root:
+
+   ```bash
+   cd Data-Acquisition-project
+   ```
+
+3. Run the main script:
+
+   ```bash
+   python ./main.py
+   ```
+
+Note: Make sure you have Python installed with the required packages (pandas, seaborn, matplotlib)

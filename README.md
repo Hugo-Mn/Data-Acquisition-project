@@ -64,13 +64,11 @@ Note: Data is collected for each year matching the main dataset's timeframe (197
 
 This dataset merges key information from both sources to analyze the relationship between population growth, CO2 emissions, and energy consumption. It enables the study of potential correlations between demographic changes and environmental impacts across different countries and years.
 
-```markdown
 | country | year | population | co2_total | co2_per_capita | birth_rate | generation_GW | consumption_GW |
 |---------|------|------------|-----------|----------------|------------|---------------|----------------|
 | france  | 1970 | xxx        | xxx       | xxx           | xxx        | xxx           | xxx           |
 | germany | 1970 | xxx        | xxx       | xxx           | xxx        | xxx           | xxx           |
 | ...     |      |            |           |               |            |               |               |
-```
 
 ### Available Metrics
 

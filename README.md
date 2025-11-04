@@ -1,6 +1,17 @@
 # Data-Acquisition-project
 
-# Dataset
+## Table of Contents
+
+- [Dataset Overview](#dataset)
+  - [1. Main Dataset](#1-main-dataset)
+  - [2. Web Data](#2-web-data)
+  - [3. Combined Dataset](#3-combined-dataset-structure)
+- [Visualization](#4-visualization)
+- [ChatGPT Prompts and Responses](#chatgpt-prompts-and-responses)
+- [Execution Instructions](#execution-instructions)
+- [Setup Guide](./SETUP.md)
+
+## Dataset
 
 This project aims to merge two datasets: one from a CSV file and another from web scraping.
 
